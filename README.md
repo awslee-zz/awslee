@@ -9,8 +9,8 @@ Currently working at <a href="https://www.workcast.com/">WorkCast.</a>
 ---
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github incn" width="50" height="50" /> <img
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" alt="CSS3 logo icon" width="50" height="50" /> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-plain.svg" alt="github incn" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" alt="CSS3 logo icon" width="50" height="50" />
 
 ---
 
