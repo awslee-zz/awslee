@@ -9,6 +9,8 @@ Currently working at <a href="https://www.workcast.com/">WorkCast.</a>
 ---
 🧰 Toolbox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 incn" width="50" height="50" />
+
 ---
 
 Find me on: 
